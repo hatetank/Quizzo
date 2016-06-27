@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzo</string>
+    <string name="instruction_text">Please answer the following questions as best you can, then submit for your score!</string>
+    <string name="grade_quiz">Grade Quiz</string>
+    <string name="vertical_orientation">Vertical orientation</string>
+    <string name="horizontal_orientation">Horizontal Orientation</string>
+    <string name="overflow_orientation">Overflow Orientation</string>
+    <string name="directional_orientation">Directional Orientation</string>
+    <string name="new_user_orientation">New User Orientation</string>
+    <string name="R_class">R</string>
+    <string name="resources">Resources</string>
+    <string name="drawable">Drawable</string>
+    <string name="content_pipeline">Content Pipeline</string>
+    <string name="question_1_text">You can display text in your Android app using which View object?</string>
+    <string name="edit_text_hint_text">Type your answer here</string>
+    <string name="question_2_text">A LinearLayout can display Views using which of the following?</string>
+    <string name="question_3_text">Your application resources can be accessed in Java using the ______ class.</string>
+    <string name="res_xml">res.xml</string>
+    <string name="androidmanifest_xml">AndroidManifest.xml</string>
+    <string name="values_xml">values.xml</string>
+    <string name="drawable_xml">drawable.xml</string>
+    <string name="strings_xml">strings.xml</string>
+    <string name="question_4_text">This class is used for your application to launch a new service or app functionality</string>
+    <string name="question_5_text">It is a good idea to store your app Strings in this file to keep content separated and help with localization efforts:</string>
+    <string name="submit_text">That\'s it! Go ahead and click the grading button below to get your score. Good luck!</string>
+</resources>
